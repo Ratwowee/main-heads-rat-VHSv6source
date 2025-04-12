@@ -1,4 +1,4 @@
-print("Welcome to you're hub")
+print("Welcome to vhs source")
 _G.heart = "♥"
 _G.f2 = "🍇"
 function printke()
@@ -158,7 +158,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Verb
 			BombDarkMatter = "Spinner",
 			BallSnowball = "SoundPart"},
 
-		admins = {4072061820, 5516434780, 2311784954, 6192858983, 7427155484},
+		admins = {4072061820, 9709446/, 2311784954, 6192858983, 7427155484},
 		lat = {},
 		hui = {},
 		hui2 = {},
